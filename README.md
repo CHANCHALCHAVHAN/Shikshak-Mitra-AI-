@@ -13,11 +13,32 @@
 
 ### 🎯 [Live Demo](https://shikshak-mitra-ai.vercel.app) | 📊 [Interactive Dashboard](./Teacher_Analytics_Visualization/outputs/) | 🤖 [AI Pipeline](#-complete-ai-pipeline)
 
+![Performance Analytics](./Teacher_Analytics_Visualization/outputs/performance_trends.png)
+*Real-time Performance Analytics Dashboard*
+
+![Engagement Heatmap](./Teacher_Analytics_Visualization/outputs/weekly_heatmap.png)
+*Weekly Engagement Heatmap Visualization*
+
 </div>
 
 ## 🎯 Project Overview
 
 **Shikshak Mitra AI** is an enterprise-grade, AI-powered educational platform that transforms traditional teaching through advanced machine learning, computer vision, and natural language processing. Built by **Team INNOVIONS**, this system provides real-time classroom analytics, predictive insights, and bias-free evaluation.
+
+### 🎥 Live Video Analysis Demo
+
+<div align="center">
+
+**Real-time Student Engagement Analysis**
+
+[![Video Analysis Demo](https://img.shields.io/badge/Watch-Video%20Demo-red?style=for-the-badge&logo=youtube)](./public/output_accurate.mp4)
+
+*Click above to view our AI-powered video analysis in action*
+
+![Comparison Analysis](./Teacher_Analytics_Visualization/outputs/comparison_bars.png)
+*Teacher Performance Comparison Analytics*
+
+</div>
 
 ### 🏆 Key Achievements
 - **98.7% Computer Vision Accuracy** for real-time student engagement tracking
@@ -187,6 +208,12 @@ open http://localhost:3000
 
 **Live Demo**: [View Interactive Dashboard](./Teacher_Analytics_Visualization/outputs/comprehensive_dashboard.html)
 
+![Radar Chart Analysis](./Teacher_Analytics_Visualization/outputs/radar_chart.png)
+*Multi-dimensional Performance Radar Chart*
+
+![Correlation Heatmap](./Teacher_Analytics_Visualization/outputs/correlation_heatmap.png)
+*AI Model Correlation Analysis*
+
 </details>
 
 <details>
@@ -218,6 +245,12 @@ open http://localhost:3000
 - Animated progress tracking
 - Real-time data updates
 - Exportable reports and visualizations
+
+![All Metrics Grid](./Teacher_Analytics_Visualization/outputs/all_metrics_grid.png)
+*Comprehensive Metrics Dashboard Grid*
+
+![Improvement Curve](./Teacher_Analytics_Visualization/outputs/improvement_curve.png)
+*Student Improvement Trajectory Analysis*
 
 </details>
 
@@ -359,6 +392,27 @@ kubectl get pods -n shikshak-ai
 | 📹 Video Analysis | [Sample Output](./public/output_accurate.mp4) | [Guide](./AI%20Video%20Analyzer/README_FINAL.md) | 🟢 Ready |
 | 🌐 Web Monitor | [Live Demo](./Web_Video_Monitor/) | [Setup](./WEB_VIDEO_MONITOR_README.md) | 🟢 Available |
 
+### 🖼️ Platform Screenshots
+
+<div align="center">
+
+**Main Dashboard Interface**
+
+![Website Interface](https://via.placeholder.com/800x400/4ECDC4/FFFFFF?text=Shikshak+Mitra+AI+Dashboard)
+*Interactive Web Platform - Real-time Analytics*
+
+**AI Video Analysis Interface**
+
+![Video Analysis UI](https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=AI+Video+Analysis+Interface)
+*Computer Vision Processing - Live Student Engagement*
+
+**OpenAI Integration Panel**
+
+![OpenAI Panel](https://via.placeholder.com/800x400/45B7D1/FFFFFF?text=OpenAI+GPT+Integration+Panel)
+*AI-Powered Teaching Insights & Recommendations*
+
+</div>
+
 ## 🏆 Awards & Recognition
 
 <div align="center">
@@ -459,6 +513,41 @@ If you find this project helpful, please consider:
 *🎯 Empowering Educators • 📈 Enhancing Learning • ⚖️ Ensuring Fairness*
 
 **🤖 Powered by OpenAI GPT-3.5-Turbo | 📊 Interactive Plotly Dashboards | 👁️ Real-time Computer Vision**
+
+### 📈 Complete Visualization Gallery
+
+<details>
+<summary><b>🎨 Click to View All Analytics Visualizations</b></summary>
+
+<div align="center">
+
+**Performance Trends & Analytics**
+
+![Performance Trends](./Teacher_Analytics_Visualization/outputs/performance_trends.png)
+![Weekly Heatmap](./Teacher_Analytics_Visualization/outputs/weekly_heatmap.png)
+
+**Advanced Analytics & Comparisons**
+
+![Radar Chart](./Teacher_Analytics_Visualization/outputs/radar_chart.png)
+![Comparison Bars](./Teacher_Analytics_Visualization/outputs/comparison_bars.png)
+
+**Comprehensive Dashboards**
+
+![All Metrics Grid](./Teacher_Analytics_Visualization/outputs/all_metrics_grid.png)
+![Correlation Heatmap](./Teacher_Analytics_Visualization/outputs/correlation_heatmap.png)
+
+**Improvement & Progress Tracking**
+
+![Improvement Curve](./Teacher_Analytics_Visualization/outputs/improvement_curve.png)
+
+**Interactive Features Available:**
+- 📊 [Live Dashboard](./Teacher_Analytics_Visualization/outputs/comprehensive_dashboard.html)
+- 🎬 [Animated Progress](./Teacher_Analytics_Visualization/outputs/animated_progress.html)
+- 📈 [Interactive Trends](./Teacher_Analytics_Visualization/outputs/interactive_trends.html)
+
+</div>
+
+</details>
 
 </div>
 
