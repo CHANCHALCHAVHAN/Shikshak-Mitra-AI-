@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap');
+
+@layer base {
+  :root {
+    --background: 30 10% 10%;
+    --foreground: 30 20% 95%;
+
+    --card: 30 15% 15%;
+    --card-foreground: 30 20% 95%;
+
+    --popover: 30 15% 12%;
+    --popover-foreground: 30 20% 95%;
+
+    --primary: 8 82% 67%;
+    --primary-foreground: 30 10% 10%;
+
+    --secondary: 22 88% 73%;
+    --secondary-foreground: 30 10% 10%;
+
+    --muted: 30 15% 20%;
+    --muted-foreground: 30 15% 60%;
+
+    --accent: 168 50% 40%;
+    --accent-foreground: 30 20% 95%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 30 20% 95%;
+
+    --border: 30 15% 25%;
+    --input: 30 15% 25%;
+    --ring: 8 82% 67%;
+
+    --radius: 0.75rem;
+
+    /* Custom tokens */
+    --tan: 35 35% 63%;
+    --tan-foreground: 30 10% 10%;
+    --coral: 8 82% 67%;
+    --peach: 22 88% 73%;
+    --teal: 168 50% 40%;
+    
+    --gradient-warm: linear-gradient(135deg, hsl(var(--coral)), hsl(var(--peach)));
+    --gradient-dark: linear-gradient(180deg, hsl(30 10% 8%), hsl(30 10% 12%));
+
+    --font-display: 'Playfair Display', serif;
+    --font-body: 'Inter', sans-serif;
+
+    --sidebar-background: 30 15% 12%;
+    --sidebar-foreground: 30 20% 95%;
+    --sidebar-primary: 8 82% 67%;
+    --sidebar-primary-foreground: 30 10% 10%;
+    --sidebar-accent: 30 15% 18%;
+    --sidebar-accent-foreground: 30 20% 95%;
+    --sidebar-border: 30 15% 20%;
+    --sidebar-ring: 8 82% 67%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+  }
+}
+
+@layer utilities {
+  .gradient-warm {
+    background: var(--gradient-warm);
+  }
+  
+  .text-gradient {
+    background: var(--gradient-warm);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
