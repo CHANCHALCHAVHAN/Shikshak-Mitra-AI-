@@ -397,36 +397,17 @@ kubectl get pods -n shikshak-ai
 <div align="center">
 
 **Main Dashboard Interface**
-
-![Website Interface](https://via.placeholder.com/800x400/4ECDC4/FFFFFF?text=Shikshak+Mitra+AI+Dashboard)
+<img width="1899" height="965" alt="Screenshot 2025-12-12 171931" src="https://github.com/user-attachments/assets/a02f4ef6-46e4-4809-8d1e-4bd1ebfdd436" />
+<img width="1872" height="956" alt="Screenshot 2025-12-12 172240" src="https://github.com/user-attachments/assets/b9672bbf-5dc8-4a4f-a15d-de993a640af3" />
 *Interactive Web Platform - Real-time Analytics*
-
-**AI Video Analysis Interface**
-
-![Video Analysis UI](https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=AI+Video+Analysis+Interface)
-*Computer Vision Processing - Live Student Engagement*
-
-**OpenAI Integration Panel**
-
-![OpenAI Panel](https://via.placeholder.com/800x400/45B7D1/FFFFFF?text=OpenAI+GPT+Integration+Panel)
-*AI-Powered Teaching Insights & Recommendations*
+<img width="1875" height="958" alt="Screenshot 2025-12-12 172443" src="https://github.com/user-attachments/assets/91780584-bc2c-4e89-a0a2-97cd419d09c8" />
+<img width="1879" height="958" alt="Screenshot 2025-12-12 172536" src="https://github.com/user-attachments/assets/9c5fb172-f5bd-4e3b-86e9-56c962a895f1" />
+<img width="1890" height="961" alt="Screenshot 2025-12-12 172622" src="https://github.com/user-attachments/assets/dfcce555-31ab-4ce8-97f4-752fd3116f05" />
+<img width="1876" height="964" alt="Screenshot 2025-12-12 172705" src="https://github.com/user-attachments/assets/ffb21a37-7fbe-4130-af4f-2a813c682736" />
 
 </div>
 
-## 🏆 Awards & Recognition
 
-<div align="center">
-
-| Award | Organization | Year | Category |
-|-------|-------------|------|----------|
-| 🥇 **Best AI Innovation** | EdTech Excellence Awards | 2024 | AI in Education |
-| 🏅 **Outstanding Technical Achievement** | AI in Education Summit | 2024 | Technical Excellence |
-| ⭐ **Top 10 EdTech Startups** | TechCrunch Disrupt | 2024 | Innovation |
-| 🎯 **Most Impactful AI Solution** | UNESCO AI for Education | 2024 | Social Impact |
-| 🚀 **Best Interactive Dashboard** | Plotly Community Awards | 2024 | Data Visualization |
-| 🤖 **Excellence in AI Integration** | OpenAI Developer Showcase | 2024 | API Innovation |
-
-</div>
 
 ## 👥 Team INNOVIONS
 
